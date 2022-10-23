@@ -47,15 +47,13 @@
 }
 .header-top .header-top-nav  .header-top-button {
   background-color: #FF7400;
-  width: 157px;
-  height: 47px;
 
 
 }
 .header-top .header-top-nav  .header-top-button .header-button-p {
   font-family: "Gilroy";
   font-size: 14px;
-
+  padding: 5px;
 
   text-align: center;
   color: #fff;
@@ -677,13 +675,6 @@ margin-top: 2rem;
   width: 1px;
   height: 50px;
 }
-.kvadrat-1 {
-  width: 681px;
-  height: 341px;
-  margin: -9px;
-  background: #FFFFFF;
-  box-shadow: 10px 10px 40px 20px rgb(0 0 0 / 10%);
-}
 
 
 .img3 {
@@ -735,8 +726,17 @@ h1 {
   color: #D67E35;
   font-size: 39px;
 }
+.kvadrat-1 {
+  width: 100%;
+  height: 341px;
 
+  background: #FFFFFF;
 
+}
+.kvadrat {
+  margin-left: -5px;
+  margin-top: -114px;
+}
 
 
 
